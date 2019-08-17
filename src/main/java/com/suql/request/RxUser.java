@@ -16,4 +16,8 @@ public class RxUser {
     @Getter
     @Setter
     private int sex;
+
+    @Getter
+    @Setter
+    private String password;
 }

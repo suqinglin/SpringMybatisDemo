@@ -1,7 +1,8 @@
-package com.suql.service;
+package com.suql.service.impl;
 
 import com.suql.bean.UserInfo;
 import com.suql.mapper.UserMapper;
+import com.suql.service.UserService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
